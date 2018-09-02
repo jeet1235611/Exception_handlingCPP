@@ -15,8 +15,8 @@ int main() {
 
 	catch(int i) {
 		cout << "Exception caught" << endl;
-	//	int y = 10 + 20;
-	//	cout << y << endl;
+		int y = 10 + 20;
+		cout << y << endl;
 	}
 	
 	cout << "Next statement "  << endl;
